@@ -6,8 +6,8 @@
     
 </head>
 <body>
-    
+    <div>
     <h1>Hola! Soy Pedro...</h1>
-
+    </div>
 </body>
 </html>
