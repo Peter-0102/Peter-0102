@@ -6,8 +6,7 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
+- ⭐ currently studying on **Universidad Tecnologica de la Mixteca**
 - 👾 a **student** working his way around things
   
 <h2> / current skills / </h2>
