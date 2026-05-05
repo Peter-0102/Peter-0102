@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/fLwY1IG" />
+<img width="1983" height="793" alt="Portada" src="https://github.com/user-attachments/assets/bf2dc08c-4612-4de0-b943-ccf8f0eb7ca9" />
 </p>
 
 <h1 align="center">Pedro Cruz López</h1>
