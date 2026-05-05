@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/oURn5Va.png](https://imgur.com/a/fLwY1IG)" />
+  <img src="https://imgur.com/a/fLwY1IG" />
 </p>
 
 <h1 align="center">Pedro Cruz López</h1>
