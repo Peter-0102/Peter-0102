@@ -1,9 +1,8 @@
 <p align="center">
 <img width="1983" height="793" alt="Portada" src="https://github.com/user-attachments/assets/bf2dc08c-4612-4de0-b943-ccf8f0eb7ca9" />
 </p>
-
-<h1 align="center">Pedro Cruz López</h1>
 <h3 align="center">Computer Engineering Student | Software Developer | AI & Computer Vision</h3>
+
 
 <p align="center">
   <a href="https://github.com/Peter-0102">
